@@ -1,5 +1,5 @@
 # ISR_DIsamplng
-Assingment##
+Assignment##
 A function with the prototype `int ISRDIsampling();` is used in an ISR (Interrupt Service
 Routine) to poll the condition of 8 GPIO pins at 100Hz, a variable `g_ReadDIpinSts` defined
 globally contains the status of each of these GPIO pins at any given time, this variable is
